@@ -1,6 +1,7 @@
 <template>
   <view class="index">
-    <button @click="gotoModel">goto model</button>
+    <h3>路由模式为 browser, 无法获取路由参数</h3>
+    <button @click="gotoModel">goto model page</button>
   </view>
 </template>
 
